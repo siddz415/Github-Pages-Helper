@@ -18,3 +18,6 @@ GitHub Username: Your GitHub username.
 Repository Name: The name of your GitHub repository.
 Hosting Type: Choose between GitHub Pages or Custom Domain.
 Custom Domain: (Optional) If you choose Custom Domain, provide your custom domain.
+
+# Link
+https://www.npmjs.com/package/github-pages-helper
