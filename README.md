@@ -20,4 +20,5 @@ Hosting Type: Choose between GitHub Pages or Custom Domain.
 Custom Domain: (Optional) If you choose Custom Domain, provide your custom domain.
 
 # Link
-https://www.npmjs.com/package/github-pages-helper
+# https://www.npmjs.com/package/github-pages-helper
+# https://github.com/siddz415/Github-Pages-Helper
